@@ -1,5 +1,5 @@
 # Identificação de abastecimento por RFID
-## Soluções para gestão de abastecimento na indústria e varejo.
+## Soluções para gestão de abastecimento para indústria e varejo.
 ### nossas soluções são baseadas em:
 
 
@@ -8,7 +8,8 @@
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg"  
  width="40" height="40"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/dev/devicon@latest/icons/arduino/arduino-original.svg" width="40" height="40"/>
+  <img loading="lazy" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width="40" height="40"/>
+          
 </div>
          
 
